@@ -33,6 +33,7 @@ source tornet-venv/bin/activate
 pip install tornet
 ```
 5) Go to your Browser Settings -----> Network Settings: Change to manual proxy configuration and type in the following:
+
 SOCKS Host
 ```bash
 127.0.0.1
