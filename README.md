@@ -50,4 +50,5 @@ Port
 ```bash
 tornet --interval 12 --count 0
 ```
-8) TorNet Activates
+8) TorNet Activated
+9) To Deactivate: Ctrl + C
